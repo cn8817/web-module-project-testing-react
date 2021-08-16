@@ -52,7 +52,7 @@ Get the project fired up and start using it as a user would. Try to go through t
 * [ ] Test that when the fetch button is pressed, the show component will display. Make sure to account for the api call and change of state in building your test.
 * [ ] Test that when the fetch button is pressed, the amount of select options rendered is equal to the amount of seasons in your test data.
 * [ ] Notice the optional functional prop passed in to the Display component client code. Test that when the fetch button is pressed, this function is called.
-
+ 
 ### Stretch goals
 
 - Add in a testing suite for the episodes component.
